@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/sunset-110305_1280.jpg";
+import image from "../images/child-613199_640.jpg";
 
 const imageAltText = "A man standing in a beam of sunset rays.";
 

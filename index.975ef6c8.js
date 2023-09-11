@@ -27090,11 +27090,11 @@ var _stylesCss = require("./styles.css");
     name: "Collins Ochieng",
     title: "Junior Fullstack developer",
     email: "ochiengcollinsoduor2@gmail.com",
-    gitHub: "https://github.com/Collins331",
-    instagram: "https://www.instagram.com/collins.linc/",
-    linkedIn: "https://www.linkedin.com/in/collins-ochieng-9b2303251/",
+    gitHub: "Collins331",
+    instagram: "collins.linc",
+    linkedIn: "collins-ochieng-9b2303251/",
     medium: "",
-    twitter: "https://twitter.com/Lincoln_331",
+    twitter: "Lincoln_331",
     youTube: "Code"
 };
 const primaryColor = "#4E567E";
